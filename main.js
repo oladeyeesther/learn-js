@@ -478,4 +478,7 @@ function calculate() {
 
 
        
-
+  function greet() {
+	  alert("say hi")
+  }
+  greet()
